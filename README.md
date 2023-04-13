@@ -4,6 +4,10 @@ This repository showcases how to use [three.js](https://threejs.org/) and [AI-ge
 
 <img width="200" src="https://media.tenor.com/6x46djcCuRsAAAAi/anime.gif"/>
 
+## Demo project
+
+Check out a live demo [here](http://two.rf.gd/aisphere/)!
+
 
 ## Installation
 
